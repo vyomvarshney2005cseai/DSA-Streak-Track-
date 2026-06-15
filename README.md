@@ -1,2 +1,11 @@
-# DSA-Streak-Track-
-🚀 Welcome to my official Data Structures and Algorithms (DSA) Streak Challenge repository! This space is dedicated to building unstoppable daily coding consistency, refining my analytical thinking, and mastering complex problem-solving patterns. Every day, I tackle algorithmic challenges from platforms like LeetCode, Codechef and NeetCode250.
+# 🚀 DSA Streak Challenge
+
+Welcome to my Data Structures and Algorithms (DSA) streak repository! This repo tracks my journey of solving DSA problems consistently to sharpen my problem-solving skills and master core computer science concepts.
+
+## 🛠️ Languages Used
+* **C/C++** (Core problem solving)
+
+## 📌 Goals
+- Maintain a daily streak.
+- Focus on optimizing Time and Space complexity.
+- Document key learnings inside the code files using clean comments.
